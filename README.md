@@ -33,3 +33,10 @@ Como aplicar regras de interação com teclado da WCAG
 A importância do atributo tabindex
 A criar um KeyboardManager reutilizável
 A utilizar @ContentChildren para injeção de diretivas de marcação
+
+#
+
+Acessibilidade e o estado disabled de elementos
+Como gerenciar o estado disabled de um FormControl do Reactive Form
+A importância de começarmos utilizando componentes nativos do HTML para a Acessibilidade
+A reimplementar nosso componente para que utilize elementos nativos do HTML
